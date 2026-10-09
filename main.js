@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   window.showContact = function (btn) {
     const contacts = {
-      phone: ["Kzc=", "OTEx", "MDE3", "NTA2OQ=="],
+      phone: ["Kzc=", "OTY1", "MDM4", "NTI=", "NDM="],
       telegram: ["aHR0cHM6Ly90Lm1lL3BvbG1hc3Rlcjc4"],
     }
 
